@@ -17,7 +17,6 @@ h2{
 }
 
 img{
-    
-  border-color: black;
-  border-width: medium;
+    border: 2px;color: black;
+    width: 200px;
 }
