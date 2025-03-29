@@ -20,3 +20,47 @@ img{
     border: 2px;color: black;
     width: 200px;
 }
+
+.resaltar{
+    color: green;
+}
+
+p{
+    background-color: lightblue;
+}
+
+div{
+    margin: 15px;
+}
+
+table{
+    padding: 10px;
+}
+
+td, th{
+padding: 10px;
+}
+
+#titulo-grande{
+    font-size: 30px;
+}
+
+li{
+    color: purple;
+}
+
+.like{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background-color: yellow;
+}
+
+.tabla{
+    border: 1px solid black;
+    
+}
+
+.uno, dos{
+    border: 1px solid black;
+    padding: 5px;
+}
